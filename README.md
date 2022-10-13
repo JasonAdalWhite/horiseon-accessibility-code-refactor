@@ -10,5 +10,8 @@ changed given starter code to meet the acceptance criteria given:
 
 link to live deployment: https://jasonadalwhite.github.io/module-one-challenge/
 
+Screenshot of final result:
 
 
+
+![module-one-challenge result](https://user-images.githubusercontent.com/97865978/195716407-4d729487-3d53-4bb8-a9a5-22099e803bbb.png)
